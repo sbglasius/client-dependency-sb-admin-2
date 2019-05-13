@@ -77,6 +77,6 @@ assets {
 
 clientDependencies {
     npm {
-        'startbootstrap-sb-admin-2'('4.0.3')
+        'startbootstrap-sb-admin-2'('4.0.3') 
     }
 }
